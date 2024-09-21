@@ -1,0 +1,6 @@
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="11dp"
+    android:layout_height="11dp"
+    android:src="@drawable/tab_indicator_selector"
+    android:layout_gravity="center"
+    android:layout_margin="0.1dp" /> <!-- Adjust margin to reduce space -->

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Custom TextAppearance for drawer menu items -->
+    <style name="CustomNavigationMenuTextAppearance" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:fontFamily">@font/jakarta_sans_semibold</item> <!-- Custom font -->
+        <item name="android:textSize">18sp</item> <!-- Text size -->
+        <item name="android:textColor">@color/black</item> <!-- Text color -->
+    </style>
+</resources>
